@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lehlohonolo Leshoro
-- 🌱 I’m currently learning full stack development
+- 🌱 I am a beginner programmer.
 - 📫 How to reach me: email: leshorohloni5@gmail.com
 
 
